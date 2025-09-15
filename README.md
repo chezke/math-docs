@@ -1,3 +1,4 @@
+![Documentation Check](https://github.com/chezke/math-docs/actions/workflows/check-docs.yml/badge.svg)
 # Mathematics Library Documentation
 
 ## 1. Basic Arithmetic
@@ -5,7 +6,7 @@
 Example: 2 + 3 = 5
 
 ### 1.2 Multiplication
-Example: 2 * 3 = 5  # Error: should be 6
+Example: 2 * 3 = 6
 
 ## 2. Advanced Operations
 ### 2.1 Exponentiation
