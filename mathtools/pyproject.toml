@@ -20,3 +20,7 @@ dependencies = [
 test = ["pytest>=6.0"]
 jupyter = ["jupyter>=1.0.0", "notebook>=6.0.0"]
 dev = ["pytest>=6.0", "jupyter>=1.0.0", "notebook>=6.0.0"]
+
+[tool.setuptools.packages.find]
+include = ["mathtools*"]
+exclude = ["tests*", "anaconda_projects*", ".ipynb_checkpoints*"]
