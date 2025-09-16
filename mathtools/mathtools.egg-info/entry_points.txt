@@ -1,0 +1,2 @@
+[console_scripts]
+mathcalc = mathtools.cli:main
