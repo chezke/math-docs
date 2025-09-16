@@ -1,0 +1,11 @@
+pyproject.toml
+mathtools/__init__.py
+mathtools/calculator.py
+mathtools/cli.py
+mathtools.egg-info/PKG-INFO
+mathtools.egg-info/SOURCES.txt
+mathtools.egg-info/dependency_links.txt
+mathtools.egg-info/entry_points.txt
+mathtools.egg-info/requires.txt
+mathtools.egg-info/top_level.txt
+tests/test_calculator.py
